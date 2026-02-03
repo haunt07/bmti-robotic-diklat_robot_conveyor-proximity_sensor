@@ -1,0 +1,4 @@
+ProxymitySensor	KEYWORD1
+
+begin	KEYWORD2
+readProxymity	KEYWORD2
